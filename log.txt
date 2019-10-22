@@ -1,0 +1,202 @@
+
+concerti-this fleetwood mac
+
+concert-this fleetwood mac
+
+
+    Venue: Wembley Stadium
+    Location: Wembley, CO
+    Event Date: June 18, 2019
+            
+spotify-this-song
+
+
+    Artist: Ace of Base
+    Track: The Sign
+    Preview: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=6aec2e5ae4cd4bd7a5b525f74851c8ed
+    Album: The Sign (US Album) [Remastered]
+            
+spotify-this-song gold on the ceiling
+
+
+    Artist: The Black Keys
+    Track: Gold On The Ceiling
+    Preview: https://p.scdn.co/mp3-preview/ff2b18fdee4aa8f3945a03b6adcb2b67e04b9448?cid=6aec2e5ae4cd4bd7a5b525f74851c8ed
+    Album: El Camino
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=6aec2e5ae4cd4bd7a5b525f74851c8ed
+    Album: The Hits--Chapter One
+
+
+spotify-this-song
+
+
+    Artist: Pantones
+    Track: The Sign - Ace Of Base Cover
+    Preview: https://p.scdn.co/mp3-preview/b776967c99853086b23b79ae3c83db64a4b2cfda?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: ¿Quién Quiere Primavera ?
+            
+spotify-this-song piano man
+
+
+    Artist: Billy Joel
+    Track: Piano Man
+    Preview: https://p.scdn.co/mp3-preview/7f1dc0e2f56c946849ac2e61dfa1ce827fb8dc70?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Piano Man (Legacy Edition)
+            
+spotify-this-song stairway to heaven
+
+
+    Artist: Led Zeppelin
+    Track: Stairway to Heaven - Remaster
+    Preview: https://p.scdn.co/mp3-preview/8226164717312bc411f8635580562d67e191a754?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Led Zeppelin IV (Deluxe Edition)
+            
+concert-this maluma
+
+
+    Venue: The O2
+    Location: London, IL
+    Event Date: April 2, 2020
+            
+spotify-this-song take me to the church
+
+
+    Artist: Matt McAndrew
+    Track: Take Me To Church - The Voice Performance
+    Preview: null
+    Album: The Complete Season 7 Collection (The Voice Performance)
+            
+spotify-this-song stairway to heaven
+
+
+    Artist: Led Zeppelin
+    Track: Stairway to Heaven - Remaster
+    Preview: https://p.scdn.co/mp3-preview/8226164717312bc411f8635580562d67e191a754?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Led Zeppelin IV (Deluxe Edition)
+            
+concert-this maluma
+
+
+    Venue: The O2
+    Location: London, IL
+    Event Date: April 2, 2020
+            
+spotify-this-song love me do
+
+
+    Artist: Ellie Goulding
+    Track: Love Me Like You Do - From "Fifty Shades Of Grey"
+    Preview: null
+    Album: Delirium (Deluxe)
+            
+movie-this Godzilla
+
+
+    Title: Godzilla
+    Released: 2014
+    IMDB Rating: 6.4
+    Rotten Tomatos Rating: 75%
+    Country: USA, Japan
+    Language: English, Japanese
+    Plot: The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.
+    Actors: Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston
+            
+do-what-it-says
+
+
+    Artist: Backstreet Boys
+    Track: I Want It That Way
+    Preview: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: The Hits--Chapter One
+            
+do-what-it-says
+
+
+    Artist: Bill Conti
+    Track: Gonna Fly Now
+    Preview: null
+    Album: Rocky III: Music From The Motion Picture
+            
+do-what-it-says
+
+
+    Artist: Queen
+    Track: Bohemian Rhapsody - Remastered 2011
+    Preview: null
+    Album: A Night At The Opera (Deluxe Remastered Version)
+            
+spotify-this-song Help!
+
+
+    Artist: Elvis Presley
+    Track: Can't Help Falling in Love
+    Preview: https://p.scdn.co/mp3-preview/994ebd7f49e4e935df56d450b0c12d8bad8bb9f4?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Blue Hawaii
+            
+concert-this Queen
+undefined
+spotify-this-song hallelujah
+
+
+    Artist: LANCO
+    Track: Greatest Love Story
+    Preview: https://p.scdn.co/mp3-preview/a1a3c9f746e42b5854dd6814eadb5ee118d23d40?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Hallelujah Nights
+            
+spotify-this-song sound of silence
+
+
+    Artist: Disturbed
+    Track: The Sound of Silence
+    Preview: https://p.scdn.co/mp3-preview/27a108ea31c7a2e5b3622696d2cfe3885c59f913?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Immortalized
+            
+concert-this maluma
+
+
+    Venue: The O2
+    Location: London, IL
+    Event Date: April 2, 2020
+            
+spotify-this-song sounds of silence
+
+
+    Artist: Simon & Garfunkel
+    Track: April Come She Will
+    Preview: https://p.scdn.co/mp3-preview/d8da097f147e79d767201167f1547ce7335b0d39?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Sounds Of Silence
+            
+do-what-it-says
+
+
+    Artist: Queen
+    Track: Bohemian Rhapsody - Remastered 2011
+    Preview: null
+    Album: A Night At The Opera (Deluxe Remastered Version)
+            
+spotify-this-song love
+
+
+    Artist: Lizzo
+    Track: Truth Hurts
+    Preview: https://p.scdn.co/mp3-preview/c8bdc870ffc6044c84f0d52306a35551fb3d0263?cid=e2901ff1f8c34f9e9531f8b3b379a434
+    Album: Cuz I Love You (Deluxe)
+            
+movie-this the jerk
+
+
+    Title: The Jerk
+    Released: 1979
+    IMDB Rating: 7.2
+    Rotten Tomatos Rating: 81%
+    Country: USA
+    Language: English
+    Plot: A simple minded, sheltered country boy suddenly decides to leave his family home to experience life in the big city, where his naivety is both his best friend, and worst enemy.
+    Actors: Steve Martin, Bernadette Peters, Catlin Adams, Mabel King
+            
