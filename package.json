@@ -13,7 +13,7 @@
         "axios": "^0.18.1",
         "dotenv": "^6.2.0",
         "i": "^0.3.6",
-        "moment": "^2.24.0",
+        "moment": "^2.29.2",
         "node-spotify-api": "^1.1.1",
         "node_liri_app": "^1.0.0",
         "npm": "^6.12.0",
